@@ -1,4 +1,6 @@
 body{
     background-color: rgb(66, 148, 173);
 }
-iframe {width="300" height="40" frameborder="0" allowtransparency="true" allow="encrypted-media"}
+iframe {
+    width="300" height="40" frameborder="0" allowtransparency="true" allow="encrypted-media"
+}
