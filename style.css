@@ -1,6 +1,30 @@
 body{
     background-color: rgb(66, 148, 173);
 }
-iframe {
-    width:"300"; height:"40"; allowtransparency:"true"; allow:"encrypted-media";
+h3 {
+    text-align: justify;
 }
+.navbar {
+    overflow: hidden;
+    background-color: black;
+    position: fixed; 
+    top: 0;
+    width: 110%; 
+  }
+  
+  /* Links inside the navbar */
+  .navbar a { 
+    float: left;
+    display: block;
+    color: #ccc9c9;
+    text-align: center;
+    padding: 14px 270px;
+    text-decoration: none;
+  }
+
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: rgb(141, 137, 137);
+    color: black;
+  }
