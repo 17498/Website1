@@ -1,10 +1,7 @@
 body{
     background-color: rgb(66, 148, 173);
 }
-ul {
-  text-align: center;
-  list-style-position: inside;
-}
+
 
 div.polaroid {
   width: 20%;
@@ -23,7 +20,7 @@ div.container {
     background-color: black;
     position: fixed; 
     top: 0;
-    width: 110%; 
+    width: 105%; 
   }
   
   /* Links inside the navbar */
